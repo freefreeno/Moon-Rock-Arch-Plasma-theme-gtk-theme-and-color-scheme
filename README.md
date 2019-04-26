@@ -15,4 +15,10 @@ A beautiful Breeze based dark theme with a little greyish blue color. Complete t
 
 ![Screenshot_20190426_002658](https://user-images.githubusercontent.com/41884680/56821915-338d2200-6815-11e9-9d6b-a6e9eece661f.png)
 
+                                                              ** GTK Screenshots **
+
+![Screenshot_20190425_144914](https://user-images.githubusercontent.com/41884680/56822164-db0a5480-6815-11e9-839e-50bf35aed02e.png)
+
+![Screenshot_20190425_144056](https://user-images.githubusercontent.com/41884680/56822168-df367200-6815-11e9-91df-d701d6887e8c.png)
+
 
