@@ -23,5 +23,3 @@ A beautiful Breeze based dark theme with a little greyish blue color. Complete t
 
 ![Screenshot_20190426_112830](https://user-images.githubusercontent.com/41884680/56822636-486ab500-6817-11e9-92e1-caa1bb0025b3.png)
 
-![Screenshot_20190426_113550](https://user-images.githubusercontent.com/41884680/56822670-5fa9a280-6817-11e9-878a-3b669d4d6619.png)
-
